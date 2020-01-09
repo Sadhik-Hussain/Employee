@@ -53,7 +53,7 @@ This Application is using Laravel, Materialize-css version 1.0.0 alpha-4 , mater
 
 #### Admin Credentials
 - Email :- admin@admin.com
-- Password :- Password
+- Password :- password (small caps)
 
 #### ScreenShot
 
